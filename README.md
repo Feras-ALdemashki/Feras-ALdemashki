@@ -12,7 +12,8 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/your-link" target="_blank">
+  <a href="https://www.linkedin.com/in/feras-al-demashki/
+" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" style="margin-right: 15px;" />
   </a>
   <a href="https://discord.gg/xFHxEhhZg5" target="_blank" title="Join my Discord server">
