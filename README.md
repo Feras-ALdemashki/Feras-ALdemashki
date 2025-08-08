@@ -64,8 +64,5 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=feras-aldemashki&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
     </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=feras-aldemashki" alt="GitHub Streak" />
-    </td>
   </tr>
 </table>
