@@ -6,7 +6,7 @@
 - 🎶 I’m also a musician  **I used to play bass and now I’m learning the trumpet. 🎺**
 - 💬 Ask me about **anything related to vanilla JavaScript, APIs, or web development.**
 - 📫 Reach me at: **aldemashkiferas@gmail.com**
-- 📄 [Click here](https://app.enhancv.com/share/6f14a1dc/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic) to view my CV.
+- 📄 [Click here](https://app.enhancv.com/share/6744ec66/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic) to view my CV.
 
 ---
 
