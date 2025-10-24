@@ -2,27 +2,11 @@
 <h3 align="center">Web Developer</h3>
 
 - 🔭 I’m currently working on **building full-stack apps using JavaScript, Node.js, and React.**
-- 🌱 I’m currently learning **new tools and clean coding practices every day.**
+- 🌱 I’m currently learning **AWS Cloud**, new tools, and clean coding practices every day.
 - 🎶 I’m also a musician  **I used to play bass and now I’m learning the trumpet. 🎺**
 - 💬 Ask me about **anything related to vanilla JavaScript, APIs, or web development.**
 - 📫 Reach me at: **aldemashkiferas@gmail.com**
 - 📄 [Click here](https://app.enhancv.com/share/6f14a1dc/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic) to view my CV.
-
----
-
-### 🌐 Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/feras-al-demashki/
-" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" style="margin-right: 15px;" />
-  </a>
-  <a href="https://discord.gg/xFHxEhhZg5" target="_blank" title="Join my Discord server">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord Server" height="40" />
-  </a>
-  <a href="" target="_blank">
-  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" height="40" />
-</a>
-</p>
 
 ---
 
@@ -50,6 +34,7 @@
 ### 🧪 Now I'm working on:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60" height="60"/>
 </p>
 
 ---
