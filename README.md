@@ -1,53 +1,73 @@
-<h1 align="center">Hello 👋, I'm Feras A-Demashki</h1>
-<h3 align="center">Web Developer</h3>
-
-- 🔭 I’m currently working on **building full-stack apps using JavaScript, Node.js, and React.**
-- 🌱 I’m currently learning **AWS Cloud**, new tools, and clean coding practices every day.
-- 🎶 I’m also a musician  **I used to play bass and now I’m learning the trumpet. 🎺**
-- 💬 Ask me about **anything related to vanilla JavaScript, APIs, or web development.**
-- 📫 Reach me at: **aldemashkiferas@gmail.com**
-- 📄 [Click here](https://app.enhancv.com/share/6744ec66/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic) to view my CV.
+## Hi there, I'm Feras 👋
+Welcome to my GitHub,this is where I learn, experiment, and build stuff!
 
 ---
 
-### 🛠️ Languages & Tools:
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="Cypress" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="50" height="50"/>
+## 🛠️ Technologies & Tools I Use
+
+### 🖥️ Frontend Technologies
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat)
+![Chrome DevTools](https://img.shields.io/badge/-Chrome_DevTools-4285F4?logo=googlechrome&logoColor=white&style=flat)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-000000?logo=shadcnui&logoColor=white&style=flat)
+![Material UI](https://img.shields.io/badge/-Material_UI-007FFF?logo=mui&logoColor=white&style=flat)
+![Recharts](https://img.shields.io/badge/-Recharts-444444?logo=recharts&logoColor=white&style=flat)
+![chroma.js](https://img.shields.io/badge/-chroma.js-8E44AD?logo=javascript&logoColor=white&style=flat)
+
+
+
+### ⚙️ Backend & Databases
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
+![REST APIs](https://img.shields.io/badge/-REST_APIs-40AEF0?logo=swagger&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
+![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white&style=flat)
+![HTTP Cookies](https://img.shields.io/badge/-HTTP_Cookies-795548?style=flat)
+
+
+
+### 🧪 Testing
+![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=flat)
+
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=flat)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=flat)
+![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=black&style=flat)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
+
+
+---
+
+## 📚 Currently Learning / Planning to Learn
+
+- **AWS Cloud** fundamentals and deployment workflows  
+- **TypeScript** for safer, scalable code  
+- Clean code practices and better tooling
+
+---
+
+## 📫 How to Reach Me
+- **Email:** aldemashkiferas@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/feras-al-demashki/
+
+
+
+---
+
+## 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=feras-aldemashki&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
-
----
-
-### 🧪 Now I'm working on:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60" height="60"/>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=feras-aldemashki&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=feras-aldemashki&show_icons=true&locale=en" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=feras-aldemashki&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
