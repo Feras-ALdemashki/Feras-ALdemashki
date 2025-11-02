@@ -24,6 +24,7 @@ Welcome to my GitHub,this is where I learn, experiment, and build stuff!
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
 ![REST APIs](https://img.shields.io/badge/-REST_APIs-40AEF0?logo=swagger&logoColor=white&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white&style=flat)
 ![HTTP Cookies](https://img.shields.io/badge/-HTTP_Cookies-795548?style=flat)
 
