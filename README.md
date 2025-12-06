@@ -64,9 +64,8 @@ Welcome to my GitHub,this is where I learn, experiment, and build stuff!
 ---
 
 ## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=feras-aldemashki&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=feras-aldemashki&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=feras-aldemashki&show_icons=true&locale=en)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=feras-aldemashki&show_icons=true&locale=en&layout=compact)
+
