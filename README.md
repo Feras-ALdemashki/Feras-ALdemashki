@@ -50,7 +50,7 @@ Welcome to my GitHub,this is where I learn, experiment, and build stuff!
 ## 📚 Currently Learning / Planning to Learn
 
 - **AWS Cloud** fundamentals and deployment workflows  
-- **TypeScript** for safer, scalable code  
+- Python for scripting, automation, and backend development 
 - Clean code practices and better tooling
 
 ---
